@@ -1,0 +1,115 @@
+﻿  AssetManager.cpp
+  Bird.cpp
+  Flash.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(7,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(7,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(21,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(25,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(33,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Flash.cpp(37,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Game.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOverState.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameOverState.cpp(29,158): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameOverState.cpp(30,200): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameOverState.cpp(37,104): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameOverState.cpp(37,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameState.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameState.cpp(96,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameState.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\GameState.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+  HUD.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\HUD.cpp(19,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\HUD.cpp(19,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Land.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Land.cpp(29,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  MainMenuState.cpp
+  Pipe.cpp
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(18,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(36,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(46,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+D:\Fakultet\Flappy Bird\Flappy Bird\Flappy Bird\Pipe.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+  SplashState.cpp
+  Generating code
+  0 of 658 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Flappy Bird.vcxproj -> D:\Fakultet\Flappy Bird\Flappy Bird\Release\Flappy Bird.exe
