@@ -25,7 +25,7 @@ $ git clone https://github.com/DBDoco/Flappy-Bird-Clone.git
 $ cd Flappy-Bird-Clone
 $ cd Flappy Bird
 
-# Run with favorite C++ compiler
+# Compile with favorite C++ compiler and run the game from Release folder
 version x86 release
 ```
 
