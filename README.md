@@ -17,17 +17,20 @@
 
 To clone and run this application, you'll need C++ compiler that works for you (tried and made with Visual Studio Community).
 
-```bash
-# Clone this repository
-$ git clone https://github.com/DBDoco/Flappy-Bird-Clone.git
 
-# Go into the repository
+Clone this repository
+```bash
+$ git clone https://github.com/DBDoco/Flappy-Bird-Clone.git
+```
+Go into the repository
+```bash
 $ cd Flappy-Bird-Clone
 $ cd Flappy Bird
-
-# Compile with favorite C++ compiler and run the game from Release folder
-version x86 release
 ```
+
+Compile with favorite C++ compiler and run the game from Release folder
+version x86 release
+
 
 ## Troubleshooting
 
