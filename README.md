@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Small Flappy Bird - like game made in C++ with <a href="https://www.sfml-dev.org/" target="_blank">SFML</a>.</h4>
+<h4 align="center">Small Flappy Bird - like PC game made in C++ with <a href="https://www.sfml-dev.org/" target="_blank">SFML</a>.</h4>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/4f6OLq75DQogvOzFkZ/giphy.gif?cid=790b7611ee1affd3155b6f226a206f17346d3593c2238f4b&rid=giphy.gif&ct=g" alt="flappy" />
