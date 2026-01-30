@@ -15,7 +15,7 @@
 
 ## How To Use
 
-To clone and run this application, you'll need C++ compiler that works for you (tried and made with Visual Studio Community).
+To clone and run this application, you'll need C++ compiler that works for you.
 
 
 Clone this repository
